@@ -1,3 +1,0 @@
-ÿØÿà JFIF =
-
-<?php phpinfo();?>
